@@ -18,14 +18,6 @@
 
 ---
 
-## <p align="center">📂 Featured Project</p>
-
-<p align="center">
-  <b>📝 <a href="https://github.com/davi-morais2008/projetos/tree/main/lista_afazeres">Python To-Do List</a></b><br>
-  A simple terminal-based to-do list application written in Python that lets you add, remove, list, and complete tasks. Tasks are saved in a `.txt` file, ensuring persistence across runs.<br><br>
-</p>
-
----
 
 ## <p align="center">🎯 Goals</p>
 
