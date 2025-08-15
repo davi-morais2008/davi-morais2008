@@ -18,6 +18,19 @@
 
 ---
 
+## <p align="center">📊 GitHub Stats — Top Languages</p>
+
+<p align="center">
+  <!-- Substitua SEU_USERNAME pelo seu @ do GitHub -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-morais2008&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+      alt="Top Langs"
+    />
+  </a>
+</p>
+
+---
 
 ## <p align="center">🎯 Goals</p>
 
